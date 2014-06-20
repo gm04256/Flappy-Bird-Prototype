@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F76212D1-F348-4B48-936F-40A8DA02F21E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Flappy Bird Prototype</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37E6EF23-A046-4D77-8E18-5205F8ED8BCD</key>
+		<string>https://github.com/gm04256/Flappy-Bird-Prototype.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Flappy Bird Prototype/Flappy Bird Prototype.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37E6EF23-A046-4D77-8E18-5205F8ED8BCD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gm04256/Flappy-Bird-Prototype.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37E6EF23-A046-4D77-8E18-5205F8ED8BCD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37E6EF23-A046-4D77-8E18-5205F8ED8BCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Flappy Bird Prototype</string>
+		</dict>
+	</array>
+</dict>
+</plist>
